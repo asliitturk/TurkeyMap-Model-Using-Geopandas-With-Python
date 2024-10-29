@@ -93,7 +93,8 @@ Country/Data = [
  Yalova,
  Yozgat,
  Zonguldak ]
-
+ 
+ ![img](https://github.com/asliitturk/TurkeyMap-Model-Using-Geopandas-With-Python/blob/main/turkey_map.png?raw=true)
 
 
   
