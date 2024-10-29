@@ -1,6 +1,6 @@
 # SET-UP GUIDE 
 #### a-) Visual Studio Code  [install ](https://code.visualstudio.com/)
-#### b-) GADM [web](https://gadm.org/) 
+#### b-) GADM [web](https://gadm.org/data.html) 
 ## Library 
 ####  geopandas
 ``` 
